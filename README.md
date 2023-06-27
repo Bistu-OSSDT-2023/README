@@ -11,9 +11,9 @@
 
 ## 基于大语言模型技术的课程助教
 
-![BistuCopilot 开源课助手](https://github.com/Bistu-OSSDT-2023/.github/blob/main/BistuCopilot-OSSDT1.png)
-![BistuCopilot 开源课助手](https://github.com/Bistu-OSSDT-2023/.github/blob/main/BistuCopilot-OSSDT2.png)
-![BistuCopilot 开源课助手](https://github.com/Bistu-OSSDT-2023/.github/blob/main/BistuCopilot-OSSDT3.png)
+![BistuCopilot 开源课助手](https://github.com/Bistu-OSSDT-2023/README/blob/main/BistuCopilot-OSSDT1.png)
+![BistuCopilot 开源课助手](https://github.com/Bistu-OSSDT-2023/README/blob/main/BistuCopilot-OSSDT2.png)
+![BistuCopilot 开源课助手](https://github.com/Bistu-OSSDT-2023/README/blob/main/BistuCopilot-OSSDT3.png)
 
 
 ## 鼓励使用开源的人工智能辅助编程
