@@ -11,19 +11,21 @@
 
 
 ### 基于大语言模型技术的课程助教
+基于校园智能助理系统BistuCopilot，将课程参考资料向量化后嵌入，提供人工智能的课程助手。
 
 ![BistuCopilot 开源课助手](https://github.com/Bistu-OSSDT-2023/README/blob/main/BistuCopilot-OSSDT1.png)
-
-
 ![BistuCopilot 开源课助手](https://github.com/Bistu-OSSDT-2023/README/blob/main/BistuCopilot-OSSDT2.png)
 ![BistuCopilot 开源课助手](https://github.com/Bistu-OSSDT-2023/README/blob/main/BistuCopilot-OSSDT3.png)
 
 
 ### 开源的人工智能辅助编程
 
-
-
+人工智能辅助编程已经在计算机行业广泛使用。GitHub 通过跟踪其客户和社区用户的使用习惯，得出目前已经有接近 50%的编程是通过 Copilot 完成的，而且这个比例还在不断提高。
+课程中设置了”AI辅助编程“教学环节，鼓励学生使用AI辅助编程工具来进行课程实践。
 
 ### 开源大语言模型为主题的课程实践
+
+大语言模型是人工智能最新的技术方向。
+课程中设置了”大语言模型应用开发“环节，与国内的一线大模型企业合作，把大模型应用开发作为课程项目实践主题之一。
 
 
