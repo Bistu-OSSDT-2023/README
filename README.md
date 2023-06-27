@@ -10,18 +10,20 @@
 人工智能赋能教育是指将人工智能技术应用于教育领域，以改善教育的效果和提升学生的学习体验。通过结合人工智能的强大计算能力和智能算法，可以为教育带来许多创新和改进。
 
 
-* 基于大语言模型技术的课程助教
+### 基于大语言模型技术的课程助教
 
 ![BistuCopilot 开源课助手](https://github.com/Bistu-OSSDT-2023/README/blob/main/BistuCopilot-OSSDT1.png)
+
 
 ![BistuCopilot 开源课助手](https://github.com/Bistu-OSSDT-2023/README/blob/main/BistuCopilot-OSSDT2.png)
 ![BistuCopilot 开源课助手](https://github.com/Bistu-OSSDT-2023/README/blob/main/BistuCopilot-OSSDT3.png)
 
 
-* 鼓励使用开源的人工智能辅助编程
+### 开源的人工智能辅助编程
 
 
 
 
-* 以开源大语言模型为主题的课程实践
+### 开源大语言模型为主题的课程实践
+
 
